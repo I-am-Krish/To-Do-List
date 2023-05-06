@@ -1,4 +1,3 @@
-![Ss1](https://user-images.githubusercontent.com/81500145/236621752-1fb3281c-4d24-4b91-93e5-d41433d08b16.png)
 # To-Do-List
 ToDo list is a simple web application to save Your daily tasks in order not to miss anything.
 
@@ -13,4 +12,7 @@ ToDo list is a simple web application to save Your daily tasks in order not to m
 ### Technologies used
 * HTML
 * CSS
-* JavaScript![Ss1](https://user-images.githubusercontent.com/81500145/236621724-23ecb856-11b4-46e1-8c28-992e87e22420.png)
+* JavaScript
+
+### Screenshot
+![Ss1](https://user-images.githubusercontent.com/81500145/236621724-23ecb856-11b4-46e1-8c28-992e87e22420.png)
